@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "393108739878",
+    "firebase_url": "https://kjoleskappen.firebaseio.com",
+    "project_id": "kjoleskappen",
+    "storage_bucket": "kjoleskappen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393108739878:android:7ffb662d09c64217",
+        "android_client_info": {
+          "package_name": "no.hiof.mathiag.kjoleskappen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393108739878-kh8vqlqk1jnebggsqtcnf92h2q7dt2d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "no.hiof.mathiag.kjoleskappen",
+            "certificate_hash": "ec508b97b99236496ab1c38020d5c5342dc9abc0"
+          }
+        },
+        {
+          "client_id": "393108739878-nvlmtr4pg4q02uvmevqlchvqnrgs5r5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnpS42znziAuZs9PUOVjqnM-TgJCwIrDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393108739878-nvlmtr4pg4q02uvmevqlchvqnrgs5r5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
